@@ -3,7 +3,12 @@ Installation
 2. Install dependencies :-
 
 sudo apt update
-sudo apt install ros-humble-cartographer ros-humble-cartographer-ros ros-humble-navigation2 ros-humble-nav2-bringup ros-humble-turtlebot3-gazebo
+sudo apt install
+ros-humble-cartographer
+ros-humble-cartographer-ros
+ros-humble-navigation2
+ros-humble-nav2-bringup
+ros-humble-turtlebot3-gazebo
 pip3 install numpy scikit-learn
 
 4. Build the ws and source ws/install/setup.bash
